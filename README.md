@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **fullstack development and algorithms**
 
-- 🤝 I’m looking for help with **open source projects**
-
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adya14](https://github.com/adya14)
