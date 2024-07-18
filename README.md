@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adya Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adya14&label=Profile%20views&color=0e75b6&style=flat" alt="adya14" /> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **AI development**
 
-- 🌱 I’m currently learning **fullstack development and algorithms.**
+- 🌱 I’m currently learning **Machine Learning algorithms.**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adya14](https://github.com/adya14)
 
-- 💬 Ask me about **Web designing**
+- 💬 Ask me about **Neural Networks**
 
 - 📫 How to reach me **adyatwr@gmail.com**
 
